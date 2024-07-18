@@ -1,8 +1,12 @@
-<h2 align="left">Olá, Sejam bem-vindos!</h2>
+<h2 align="left">Olá, eu sou o Patrick Breno</h2>
 
 ###
 
-<p align="left">🎓 2º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas<br>💻 Desenvolvedor Web Front-End</p>
+<ul>
+<li>🎓 2º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
+<li>💻 Desenvolvedor Web Front-End</li>
+<li> </li>
+</ul>
 
 ###
 
