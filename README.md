@@ -1,7 +1,7 @@
 <h2 align="left">Olá, eu sou o Patrick Breno</h2>
 <br>
 <ul>
-<li> 🎓3º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
+<li> 🎓4º Periodo de Análise e Desenvolvimento de Sistemas na PUC Minas</li>
 <li> ♿ Pessoa com deficiência: Física, sem necessidade de adaptações</li>
 </ul>
 <br>
